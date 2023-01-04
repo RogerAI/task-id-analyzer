@@ -14,6 +14,8 @@
     <PackageTags>analyzers</PackageTags>
     <NoPackageAnalysis>true</NoPackageAnalysis>
     <Version>0.0.2</Version>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/RogerAI/task-id-analyzer</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
