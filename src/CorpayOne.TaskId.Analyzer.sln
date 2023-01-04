@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpayOne.TaskId.Analyzer", "CorpayOne.TaskId.Analyzer\CorpayOne.TaskId.Analyzer.csproj", "{619476FF-7F4E-480A-AC45-2B5C738B7CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpayOne.TaskId.Analyzer.Tests", "CorpayOne.TaskId.Analyzer.Tests\CorpayOne.TaskId.Analyzer.Tests.csproj", "{A50045F2-801C-4879-9313-460AB1111F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{619476FF-7F4E-480A-AC45-2B5C738B7CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619476FF-7F4E-480A-AC45-2B5C738B7CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619476FF-7F4E-480A-AC45-2B5C738B7CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619476FF-7F4E-480A-AC45-2B5C738B7CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50045F2-801C-4879-9313-460AB1111F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50045F2-801C-4879-9313-460AB1111F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50045F2-801C-4879-9313-460AB1111F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50045F2-801C-4879-9313-460AB1111F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90E6FE8-3BFA-44D7-A983-E9A33FEDE32B}
+	EndGlobalSection
+EndGlobal
